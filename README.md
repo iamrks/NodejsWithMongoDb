@@ -9,7 +9,7 @@ If you want to setup back-end developement with Nodejs and Mongodb from scratch,
 ## Requirements
 
 * [NodeJs](http://nodejs.org)
-* [MongoDb] (https://www.mongodb.com/)
+* [MongoDb](https://www.mongodb.com/)
 
 ## Install
 
